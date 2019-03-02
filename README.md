@@ -1,1 +1,1 @@
-# Augumented-Random-Search
+# Augmented-Random-Search
